@@ -1,0 +1,23 @@
+.footer {
+  background-color: #73C2FB;
+  width: 1440px;
+  height: 100px;
+  text-align: center;
+}
+
+.footer a {
+  font-size: 40px;
+  color: #0080FE;
+}
+
+.footer a:hover {
+  color: white;
+}
+
+.social p {
+  color: white;
+}
+
+.social .fas {
+  color: red;
+}
